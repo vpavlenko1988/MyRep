@@ -1,2 +1,8 @@
 git config --global user.email "......"
 git comfig --global user.name "......."
+
+1) git init
+2) git status
+3) git add filename
+4) git commit -m "commit mag"
+5) git log                         -
