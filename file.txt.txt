@@ -12,3 +12,5 @@ git comfig --global user.name "......."
 9) git checkout -b НовеІмяГілки - дозволяє створити нову гілку
 10) git branch - показує на якій гілці я знаходжусь
 11) git checkout commitHash 
+12) git merge branch
+13) sam code from main branch
