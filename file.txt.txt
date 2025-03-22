@@ -9,3 +9,6 @@ git comfig --global user.name "......."
 6) git remote add origin v.pavlenko1988@gmail.com:vpavlenko1988/MyRep.git
 7) git remote -v
 8) git push origin master
+9) git checkout -b НовеІмяГілки - дозволяє створити нову гілку
+10) git branch - показує на якій гілці я знаходжусь
+11) git checkout commitHash 
