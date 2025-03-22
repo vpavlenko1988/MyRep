@@ -1,8 +1,11 @@
 git config --global user.email "......"
 git comfig --global user.name "......."
 
-1) git init
-2) git status
-3) git add filename
-4) git commit -m "commit mag"
-5) git log                         -
+1) git init -> ініціалізація гіт репо
+2) git status -> відобразити статус файлів в репо
+3) git add filename -> додати файл в стейджінг ейріа
+4) git commit -m "commit mag" -> зробити коміт
+5) git log -> відобразити лог комітів в репо
+6) git remote add origin v.pavlenko1988@gmail.com:vpavlenko1988/MyRep.git
+7) git remote -v
+8) git push origin master
