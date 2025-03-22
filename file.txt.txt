@@ -14,3 +14,6 @@ git comfig --global user.name "......."
 11) git checkout commitHash 
 12) git merge branch
 13) sam code from main branch
+14) sam code from branch3 with changes after merge
+15) code changes made during conflict merge
+
